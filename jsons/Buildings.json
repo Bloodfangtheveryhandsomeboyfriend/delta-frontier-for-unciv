@@ -1,1 +1,7 @@
-
+[
+  {
+    "name": "Storage Bay",
+    "cost": 40,
+    "maintenance": 1,
+    "uniques": ["[+1 Production, +2 Food] from each Trade route [in this city]"]
+    
