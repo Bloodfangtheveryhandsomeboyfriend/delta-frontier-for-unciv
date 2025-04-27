@@ -7,4 +7,18 @@
         "RGB": [0, 163, 0],
         "uniques": []
     }
+	{
+		"name": "Merciless Monolith",
+		"type": "NaturalWonder",
+		"science": 4,
+		"gold": 1,
+		"overrideStats": true,
+		"occursOn": ["Badlands"],
+		"turnsInto": "Badlands",
+		"impassable": true,
+		"unbuildable": true,
+		"uniques": [
+			"Must be adjacent to [0] [Coast] tiles",
+			"Grants [No Mercy] ([all healing effects doubled]) to adjacent [Land] units for the rest of the game"
+		],
 ]
